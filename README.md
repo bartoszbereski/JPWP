@@ -1,4 +1,5 @@
 # JPWP
+    pip install pygame
 
 ## [Zadanie 1](https://github.com/bartoszbereski/JPWP/blob/main/board.py)
 ### Metoda remove 
